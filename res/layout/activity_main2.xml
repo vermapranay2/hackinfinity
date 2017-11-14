@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="?android:attr/colorPrimaryDark"
-    tools:context="org.tensorflow.demo.Main2Activity">
+    tools:context="com.tensorflow.hackinfinity.Main2Activity">
 
     <ImageButton
         android:id="@+id/scanLeavesBtn"
